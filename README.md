@@ -5,5 +5,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 
-MoiTrudi - Нейросеть на Python, которая определяет звуки в категории.
+NN-for-forest-safety - Нейросеть на Python, которая определяет звуки в категории.
 За основу был взят код с этого сайта: https://nuancesprog.ru/p/6713/
